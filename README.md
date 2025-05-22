@@ -1,5 +1,9 @@
 # Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI 🔥🔥
+<<<<<<< HEAD
 ##
+=======
+## 
+>>>>>>> f7b7984a74bc58fbf252d981333b1fbbd7d1aa34
 
 
 ### Make sure to create a `.env` file with following variables -
