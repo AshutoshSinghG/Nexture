@@ -9,8 +9,8 @@ import { dark } from "@clerk/themes";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "AI Career Coach",
-  description: "",
+  title: "Nexture - Your Career Co-Pilot",
+  description: "Nexture is an AI-powered career assistant that helps you optimize your resume, discover job opportunities, and plan your next move with smart insights. Unlock your future with personalized career guidance.",
 };
 
 export default function RootLayout({ children }) {
@@ -37,7 +37,7 @@ export default function RootLayout({ children }) {
 
             <footer className="bg-muted/50 py-12">
               <div className="container mx-auto px-4 text-center text-gray-200">
-                <p>Made with 💗 by RoadsideCoder</p>
+                <p>Nexture 💗 Ashutosh</p>
               </div>
             </footer>
           </ThemeProvider>
